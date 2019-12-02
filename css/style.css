@@ -391,6 +391,9 @@ ul {
     min-height: 770px; }
     .home_banner_area .banner_inner .overlay {
       background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
+      background-repeat:no-repeat;
+background-size:contain;
+background-position:center;
       position: absolute;
       left: 0;
       right: 0;
